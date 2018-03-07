@@ -1,2 +1,5 @@
 # project
 *.csv
+
+# ipython
+.ipynb_checkpoints
