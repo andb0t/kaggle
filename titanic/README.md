@@ -3,6 +3,8 @@ Predict survival of passengers depending on passenger data
 
 # Steps
 - [x] build a random classifier and submit to kaggle
-- [ ] improve it with a simple linear classifier
-- [ ] revisit data, plot, engineer features
-- [ ] try a decision tree and other algorithms
+- [x] improve it with a simple linear classifier
+- [x] revisit data, plot, engineer features
+- [x] try a decision tree and other algorithms
+- [x] add metrics to compare algos
+- [ ] add hyperparameter scan for top three algos
