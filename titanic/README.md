@@ -7,4 +7,5 @@ Predict survival of passengers depending on passenger data
 - [x] revisit data, plot, engineer features
 - [x] try a decision tree and other algorithms
 - [x] add metrics to compare algos
-- [ ] add hyperparameter scan for top three algos
+- [x] add hyperparameter scan for top algos
+- [ ] test the use of sparse matrices for 'Pclass' and 'Embarked'
