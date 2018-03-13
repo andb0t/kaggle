@@ -17,6 +17,7 @@ tabulate = "*"
 seaborn = "*"
 kaggle = "*"
 ipython = "*"
+imageio = "*"
 
 
 [requires]
@@ -25,3 +26,4 @@ python_version = "3.5"
 
 
 [dev-packages]
+
