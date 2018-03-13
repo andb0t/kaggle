@@ -15,6 +15,7 @@ scipy = "*"
 pandas = "*"
 tabulate = "*"
 seaborn = "*"
+kaggle = "*"
 
 
 [requires]

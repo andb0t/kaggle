@@ -1,5 +1,6 @@
 # project
 *.csv
+*.zip
 
 # ipython
 .ipynb_checkpoints
