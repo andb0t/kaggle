@@ -18,6 +18,7 @@ seaborn = "*"
 kaggle = "*"
 ipython = "*"
 imageio = "*"
+scikit-image = "*"
 
 
 [requires]
