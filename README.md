@@ -15,6 +15,6 @@ This is going to grow big.
   cd titanic
   kaggle competitions list -s titanic  # get info about competition
   kaggle competitions files -c titanic  # list data files
-  kaggle competitions download -c titanic -p data  # download files
-  kaggle competitions submit -c titanic -f results/result.cv -m "My message"
+  kaggle competitions download -p data -c titanic  # download files
+  kaggle competitions submit -f results/result.cv -m "My message"  -c titanic
   ```
