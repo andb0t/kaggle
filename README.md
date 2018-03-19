@@ -9,6 +9,8 @@ This is going to grow big.
 
 ## Setup and usage
 
+* use `pipenv` in project dirs
+* for `keras` and `h5py` make sure you have libhdf5 installed: `sudo apt-get install libhdf5-dev` 
 * create new competition folder structure by `create_new_competition.sh`.
 * use kaggle API to manage data and submissions:
   ```shell

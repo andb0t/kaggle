@@ -5,3 +5,7 @@
 
 # ipython
 .ipynb_checkpoints
+
+# keras h5py
+*.h5
+
