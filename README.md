@@ -20,3 +20,11 @@ This is going to grow big.
   kaggle competitions download -p data -c titanic  # download files
   kaggle competitions submit -f results/result.csv -m "My message"  -c titanic
   ```
+* export jupyter notebooks to python script:
+    * `jupyter nbconvert --to script [YOUR_NOTEBOOK].ipynb`
+    * run with `ipython [YOUR_NOTEBOOK].py` (python doesn't support jupyter cell magic)
+* run jupyter notebook from command line:
+    ```shell
+    jupyterrun [YOUR_NOTEBOOK].ipynb  # jupyter nbconvert --to markdown --execute --stdout
+    ```
+
