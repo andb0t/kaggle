@@ -10,3 +10,5 @@ Find the nuclei in divergent images to advance medical discovery
 - [x] prepare preliminary solution using a CNN, superimposing the different masks to one ([here](nuclei_cnn.ipynb))
 - [ ] optimize this solution, remove simplifications (e.g. several images per batch)
 - [ ] use separate masks as labels in a CNN
+- [ ] treat different color groups separately
+
