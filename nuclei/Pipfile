@@ -20,7 +20,7 @@ ipython = "*"
 imageio = "*"
 scikit-image = "*"
 tqdm = "*"
-keras = "*"
+Keras = "*"
 tensorflow = "*"
 "h5py" = "*"
 
