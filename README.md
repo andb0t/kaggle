@@ -25,6 +25,6 @@ This is going to grow big.
     * run with `ipython [YOUR_NOTEBOOK].py` (python doesn't support jupyter cell magic)
 * run jupyter notebook from command line:
     ```shell
-    jupyterrun [YOUR_NOTEBOOK].ipynb  # jupyter nbconvert --to markdown --execute --stdout
+    jupyterrun [YOUR_NOTEBOOK].ipynb  # custom function: creates temporary .py script and executes it with ipython 
     ```
 
