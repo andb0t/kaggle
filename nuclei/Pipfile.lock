@@ -18,9 +18,9 @@
     "default": {
         "absl-py": {
             "hashes": [
-                "sha256:ba6dc5510108fdfcf7176f8b38a5cc2482f2e902eb7211cbe6666998ea58daf9"
+                "sha256:1530c03b3566f24e9fcf20eadd60a792837899aef98e522f998fcebecf5df41b"
             ],
-            "version": "==0.1.11"
+            "version": "==0.1.12"
         },
         "astor": {
             "hashes": [
@@ -138,9 +138,10 @@
         },
         "imageio": {
             "hashes": [
-                "sha256:6dd95300d3d64713a2649334390fd9cf96712013172afd6e73b008e00934a73f"
+                "sha256:0f8281453c74433fcf4c7a1cf36801e6da9a4ba3117799fffd5a4db7d745e1b7",
+                "sha256:c4fd5183c342d47fdc2e98552d14e3f24386021bbc3efedd1e3b579d7d249c07"
             ],
-            "version": "==2.2.0"
+            "version": "==2.3.0"
         },
         "ipykernel": {
             "hashes": [
@@ -223,9 +224,9 @@
         },
         "kaggle": {
             "hashes": [
-                "sha256:34921002c9262acff543904f339d3006487c1d7b1de3c7ed09b08cadfe8a9d64"
+                "sha256:3e484e99133d028959f89a14bd743e7b5d4d0844a5a52fbd118e7d7965e89d90"
             ],
-            "version": "==1.0.5"
+            "version": "==1.1.0"
         },
         "keras": {
             "hashes": [
@@ -500,7 +501,6 @@
                 "sha256:e64193f0047ad603b71f202332ab5527c5e52aa7c8b609704fc28c0dc20c4365",
                 "sha256:e8c43b5eee76b2083a9badde89fd1bbce6c8942d1045146e100b7b5e014f4f1a"
             ],
-            "markers": "os_name != 'nt'",
             "version": "==0.5.2"
         },
         "pygments": {
@@ -844,6 +844,7 @@
                 "sha256:9515fe0a94e823fd90b08d22de45d7bde57c90edce705b22f5e1ecf7e1b653c8",
                 "sha256:e721e53864f084f956f40f96124a74da0631ac13fbbd1ba99e8e2b5e9cafdf64"
             ],
+            "markers": "python_version >= '3'",
             "version": "==0.30.0"
         },
         "widgetsnbextension": {
